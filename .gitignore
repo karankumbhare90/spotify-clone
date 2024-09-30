@@ -1,0 +1,6 @@
+spotify-admin/node_modules
+
+spotify-frontend/node_modules
+
+spotify-backend/node_modules
+spotify-backend/.env
